@@ -8,7 +8,8 @@ Quick and dirty esp32 bluetooth to serial bridge for the Heathkit Hero Jr Robot.
 Arduino IDE 1.8.14 with ESP 1.0.4 Library.
 
 Parts needed.
-Qty 1 ESP32 breakout module. I'm using a ESP32 Devkitv1
+Qty 1 ESP32 breakout module. I'm using a ESP32 Devkitv1.
+
 Qty 1 TTL to RS232 adapter. Any module that has rx/tx should work.
 
 If powering off the +12 from the robot, you will need to step it down to +5 for the esp32 module.
